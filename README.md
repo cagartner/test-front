@@ -13,14 +13,14 @@ Encaminhe seu currículo para vagas@trezo.com.br e coloque no assunto “Quero s
 * Confortável trabalhando com o controle de versão (Git)
 * Morar ou estar disposto a mudar-se para Blumenau/SC
 
-## Diferênciais:
+## Diferenciais:
 
 * Conhecimento em PHP
 * Conhecimento em Orientação de Objetos
 * Conhecimento na plataforma Magento
 * Participado em projetos WEB
 * Pré-processadores (LESS, SASS e etc)
-* Conhecimento em frameworks JS como e AngularJS, React, etc;
+* Conhecimento em frameworks JS como AngularJS, React, etc;
 * Experiência com UI e UX
 
 ## Sobre o Teste:
